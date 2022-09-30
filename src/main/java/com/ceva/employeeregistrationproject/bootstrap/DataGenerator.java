@@ -1,5 +1,11 @@
 package com.ceva.employeeregistrationproject.bootstrap;
 
+import com.ceva.employeeregistrationproject.model.Employee;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class DataGenerator {
     private static List<Employee> employeeList = new ArrayList<>();
 
